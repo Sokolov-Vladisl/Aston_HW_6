@@ -1,0 +1,34 @@
+
+
+в bash:    docker-compose up -d
+
+--------In browser:
+
+http://localhost:8080/api/users 
+показывает всех пользователей
+
+
+http://localhost:8080/api/users/[введите id юзераа]
+показывает пользователя с введённым id
+
+
+http://localhost:8080/swagger-ui.html
+открывает Swagger UI для проекта
+
+http://localhost:8080/api-docs
+API документация для проекта
+
+------------------------
+
+
+Account:
+логин: fromastonstudent@gmail.com
+пароль: student_password
+
+app password:
+пароль-приложение: simple_mail_send
+пароль: jbew oazo yarv kcdt
+
+
+
+
